@@ -1,5 +1,6 @@
-### Hi there 👋
 <!--
+### Hi there 👋
+
 - 🔭  I’m Full Stack Automation Engineer
 - 🌱  I'm currently learning Java 
 - 👯 I’m looking to collaborate on ...
@@ -10,7 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 
-![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](profilinizin linki)
+<!--![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](profilinizin linki)-->
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif)
 
